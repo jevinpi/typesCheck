@@ -1,14 +1,8 @@
 # <center>数据类型检查</center>
 
-## installation
-
-# check
-a JavaScript function for check javascript type.
+一个javascript函数，用来检查变量类型.
 
 ## Installation
-
-You can use this package on the server side as well as the client side.
-
 
 ### [Node.js](http://nodejs.org/):
 
